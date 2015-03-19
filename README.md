@@ -1,5 +1,5 @@
 # Hexx-Reloaded
-Hexx-Reloaded Repository for bug fixes
+Hexx-Reloaded Repository for bug fixes, mod ideas, tweaks etc.
 
 Add all issues here, further information to follow.
 
